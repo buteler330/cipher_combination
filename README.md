@@ -1,4 +1,5 @@
 # cipher_combination
 bacon cipher<br/>
 virginia cipher<br/>
-caesar cipher
+caesar cipher<br/>
+fence cipher
